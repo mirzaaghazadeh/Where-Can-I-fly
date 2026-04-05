@@ -5,6 +5,8 @@ Find cheap flights + hotels from Skyscanner and check visa feasibility based on 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Screenshot](screen.jpg)
+
 ## What it does
 
 1. Searches Skyscanner for cheap flights from your home airport
